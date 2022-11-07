@@ -1,5 +1,7 @@
 # eslint-config-w0s
 
+[![npm version](https://badge.fury.io/js/eslint-config-w0s.svg)](https://badge.fury.io/js/eslint-config-w0s)
+
 eslint-config used on [w0s.jp](https://w0s.jp/)
 
 ## `extends`
