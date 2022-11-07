@@ -14,5 +14,11 @@ module.exports = {
 			files: ['*.ts'],
 			extends: ['plugin:@typescript-eslint/recommended'],
 		},
+		{
+			files: ['*.test.ts'],
+			rules: {
+				'@typescript-eslint/ban-ts-comment': 'off',
+			},
+		},
 	],
 };
