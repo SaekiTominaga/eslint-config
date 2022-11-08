@@ -15,6 +15,15 @@ module.exports = {
 			extends: ['plugin:@typescript-eslint/recommended'],
 		},
 		{
+			files: ['*.d.ts'],
+			rules: {
+				'no-use-before-define': 'off',
+				'no-var': 'off',
+				'vars-on-top': 'off',
+				'@typescript-eslint/no-explicit-any': 'off',
+			},
+		},
+		{
 			files: ['*.test.ts'],
 			rules: {
 				'no-new': 'off',
