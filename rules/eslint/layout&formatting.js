@@ -10,6 +10,7 @@ module.exports = {
 				functions: 'never',
 			},
 		],
+		'function-paren-newline': 'off',
 		'implicit-arrow-linebreak': 'off',
 		indent: [
 			'error',
