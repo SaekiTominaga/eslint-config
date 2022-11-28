@@ -1,6 +1,7 @@
 # eslint-config-w0s
 
 [![npm version](https://badge.fury.io/js/eslint-config-w0s.svg)](https://badge.fury.io/js/eslint-config-w0s)
+[![test Status](https://github.com/SaekiTominaga/eslint-config-w0s/actions/workflows/test.yml/badge.svg)](https://github.com/SaekiTominaga/eslint-config-w0s/actions/workflows/test.yml)
 
 eslint-config used on [w0s.jp](https://w0s.jp/)
 
