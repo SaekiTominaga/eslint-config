@@ -14,3 +14,11 @@ eslint-config used on [w0s.jp](https://w0s.jp/)
 ## `plugins`
 
 - [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc)
+
+## Usage
+
+```json
+{
+  "extends": ["eslint-config-w0s"]
+}
+```
