@@ -13,6 +13,9 @@ module.exports = {
 		{
 			files: ['*.ts'],
 			extends: ['plugin:@typescript-eslint/recommended'],
+			rules: {
+				'dot-notation': 'off',
+			},
 		},
 		{
 			files: ['*.d.ts'],
