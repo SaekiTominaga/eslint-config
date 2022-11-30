@@ -1,9 +1,9 @@
-# eslint-config-w0s
+# eslint-config
 
-[![npm version](https://badge.fury.io/js/eslint-config-w0s.svg)](https://badge.fury.io/js/eslint-config-w0s)
-[![test Status](https://github.com/SaekiTominaga/eslint-config-w0s/actions/workflows/test.yml/badge.svg)](https://github.com/SaekiTominaga/eslint-config-w0s/actions/workflows/test.yml)
+[![npm version](https://badge.fury.io/js/%40w0s%2Feslint-config.svg)](https://www.npmjs.com/package/@w0s/eslint-config)
+[![test status](https://github.com/SaekiTominaga/eslint-config/actions/workflows/test.yml/badge.svg)](https://github.com/SaekiTominaga/eslint-config/actions/workflows/test.yml)
 
-eslint-config used on [w0s.jp](https://w0s.jp/)
+ESLint configuration file used on [w0s.jp](https://w0s.jp/)
 
 ## `extends`
 
@@ -19,6 +19,6 @@ eslint-config used on [w0s.jp](https://w0s.jp/)
 
 ```json
 {
-  "extends": ["eslint-config-w0s"]
+  "extends": ["@w0s/eslint-config"]
 }
 ```

@@ -1,5 +1,5 @@
 {
-	"name": "eslint-config-w0s",
+	"name": "@w0s/eslint-config",
 	"version": "1.0.8",
 	"description": "eslint-config used on w0s.jp",
 	"keywords": [
@@ -8,9 +8,9 @@
 		"eslint-config",
 		"styleguide"
 	],
-	"homepage": "https://github.com/SaekiTominaga/eslint-config-w0s#readme",
+	"homepage": "https://github.com/SaekiTominaga/eslint-config#readme",
 	"bugs": {
-		"url": "https://github.com/SaekiTominaga/eslint-config-w0s/issues"
+		"url": "https://github.com/SaekiTominaga/eslint-config/issues"
 	},
 	"license": "MIT",
 	"author": "Saeki Tominaga",
@@ -20,7 +20,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/SaekiTominaga/eslint-config-w0s.git"
+		"url": "git+https://github.com/SaekiTominaga/eslint-config.git"
 	},
 	"scripts": {
 		"test": "eslint __tests__/*"
