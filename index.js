@@ -31,6 +31,7 @@ module.exports = {
 			rules: {
 				'no-new': 'off',
 				'no-tabs': 'off',
+				'no-unused-expressions': 'off',
 			},
 		},
 		{
